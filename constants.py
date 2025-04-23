@@ -6,4 +6,4 @@ ALLOWED_CATEGORIES_DICT = {
     "marketing": 'https://promptbase.com/marketing-and-business'
 }
 
-ALLOWED_CATEGORIES_LIST = ["Art", "Logos", "Graphics", "Productivity", "Marketing", "Photo", "Games"]
+ALLOWED_CATEGORIES_LIST = ["Art", "Logos", "Graphics", "Productivity", "Marketing"]
